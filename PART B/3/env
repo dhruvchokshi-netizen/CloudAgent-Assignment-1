@@ -1,0 +1,9 @@
+
+POSTGRES_DB=cloudagent_db
+POSTGRES_USER=cloudagent_user
+POSTGRES_PASSWORD=local_dev_password_change_me
+DB_HOST=db
+DB_PORT=5432
+DB_NAME=cloudagent_db
+DB_USER=cloudagent_user
+DB_PASSWORD=local_dev_password_change_me
